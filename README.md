@@ -23,7 +23,7 @@
 2. Haz un fork del repositorio
 3. Descarga el proyecto con Git.
 4. Abrelo con tu ide
-5. Comienza el ejercicio
+5. Comienza los ejercicios
 6. Cuando hayas terminado sube el proyecto a Git.
 7. Haz una pull request con tu fork.
 
