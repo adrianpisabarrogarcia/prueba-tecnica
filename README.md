@@ -10,7 +10,7 @@
 
 - [✅] Intellij instalado con un jdk, el 11 esta bien. Puedes utilizar el IDE que prefieras y que sueles utilizar habitualmente para programar en Java: Netbeans, Eclipse, etc. Si no utilizas Intellij, igual tienes que adaptar el proyecto a tu IDE. 
 
-- [✅] Desactiva si tienes algúnn complemento como Github Copilot.   
+- [✅] Desactiva si tienes algún complemento como Github Copilot.   
 
 - [✅] Ten preparado Google o Stackoverflow, te dejaremos navegar por internet, con la condición que nos enseñes en la llamada por Teams cómo buscar, qué buscas o si vas directamente a por la solución. Te recomendamos no ir a por la solución directamente en la búsqueda.   
 
