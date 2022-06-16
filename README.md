@@ -59,4 +59,4 @@ Crea una aplicación que calcule el área de:
 * Un cuadrado.  `Área cuadrado = lado^2`
 
 > Recuerda utilizar arquitectura y principios solid. Utiliza clases.   
-> Ten en cuenta que este programa, después será modificado para añadir nuevas funcionalidades, como la del cárculo del perímetro de cada figura que nos ha pedido el cliente.
+> Ten en cuenta que este programa, después será modificado para añadir nuevas funcionalidades, como la del cálculo del perímetro de cada figura que nos ha pedido el cliente.
